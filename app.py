@@ -35,7 +35,7 @@ from src.config import (
 )
 from utils.file_utils import (
     save_uploaded_file, get_uploaded_files, clear_data_directory,
-    save_uploaded_file, get_uploaded_files, clear_data_directory,
+    save_uploaded_file, get_uploaded_files, clear_data_directory, 
     is_supported_file, read_file_content, delete_single_file,
 )
 from src.document_loader import load_documents
