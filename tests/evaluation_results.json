@@ -1,0 +1,264 @@
+{
+  "metrics": {
+    "total_questions": 18,
+    "in_domain_total": 12,
+    "in_domain_hits": 11,
+    "outside_knowledge_total": 6,
+    "outside_knowledge_rejected": null,
+    "average_similarity_score": 0.2899
+  },
+  "detailed_results": [
+    {
+      "id": 1,
+      "question": "What is the attendance requirement?",
+      "type": "direct",
+      "expected_source": "college_handbook.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "college_handbook.txt"
+      ],
+      "top_score": 0.4796,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 2,
+      "question": "What is the minimum CGPA required for degree conferment?",
+      "type": "direct",
+      "expected_source": "college_handbook.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "academic_rules.txt"
+      ],
+      "top_score": 0.3796,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 3,
+      "question": "What are the operating hours of the Central Library?",
+      "type": "direct",
+      "expected_source": "college_handbook.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.3462,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 4,
+      "question": "How many books can an undergraduate student borrow and for how many days?",
+      "type": "direct",
+      "expected_source": "college_handbook.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "academic_rules.txt"
+      ],
+      "top_score": 0.332,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 5,
+      "question": "What is the curfew time for hostel residents on weekdays and Saturdays?",
+      "type": "direct",
+      "expected_source": "college_handbook.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "college_handbook.txt"
+      ],
+      "top_score": 0.3241,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 6,
+      "question": "How many total credits must an undergraduate B.Tech student complete across eight semesters?",
+      "type": "direct",
+      "expected_source": "academic_rules.txt",
+      "retrieved_sources": [
+        "academic_rules.txt",
+        "academic_rules.txt",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.3902,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 7,
+      "question": "What is the credit weightage of the final year Capstone Project?",
+      "type": "direct",
+      "expected_source": "academic_rules.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "academic_rules.txt"
+      ],
+      "top_score": 0.2407,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 8,
+      "question": "What happens if a student has an attendance below 75% and what exception applies?",
+      "type": "multi_chunk",
+      "expected_source": "college_handbook.txt",
+      "retrieved_sources": [
+        "college_handbook.txt",
+        "college_handbook.pdf",
+        "college_handbook.txt"
+      ],
+      "top_score": 0.4392,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 9,
+      "question": "Explain the consequences of examination malpractice for a first, second, and third offense.",
+      "type": "multi_chunk",
+      "expected_source": "academic_rules.txt",
+      "retrieved_sources": [
+        "academic_rules.txt",
+        "academic_rules.txt",
+        "college_handbook.txt"
+      ],
+      "top_score": 0.3785,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 10,
+      "question": "What are the eligibility criteria and additional credit requirements for enrolling in an Honours or Minor degree program?",
+      "type": "multi_chunk",
+      "expected_source": "academic_rules.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "academic_rules.txt"
+      ],
+      "top_score": 0.3672,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 11,
+      "question": "Explain the evaluation breakdown and plagiarism cutoff for the Capstone Project.",
+      "type": "multi_chunk",
+      "expected_source": "academic_rules.txt",
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.2545,
+      "status": "[-] MISSED",
+      "llm_answer": null
+    },
+    {
+      "id": 12,
+      "question": "Summarize the 10-point grading scale from Outstanding to Fail with corresponding grade points.",
+      "type": "multi_chunk",
+      "expected_source": "college_handbook.txt",
+      "retrieved_sources": [
+        "college_handbook.txt",
+        "college_handbook.txt",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.341,
+      "status": "[+] RETRIEVED",
+      "llm_answer": null
+    },
+    {
+      "id": 13,
+      "question": "Who won the FIFA World Cup in 2022?",
+      "type": "outside_knowledge",
+      "expected_source": null,
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "academic_rules.txt",
+        "academic_rules.txt"
+      ],
+      "top_score": 0.1486,
+      "status": "OUT-OF-DOMAIN",
+      "llm_answer": null
+    },
+    {
+      "id": 14,
+      "question": "What is the population of Japan?",
+      "type": "outside_knowledge",
+      "expected_source": null,
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.1706,
+      "status": "OUT-OF-DOMAIN",
+      "llm_answer": null
+    },
+    {
+      "id": 15,
+      "question": "How does photosynthesis convert light energy into chemical energy?",
+      "type": "outside_knowledge",
+      "expected_source": null,
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.1717,
+      "status": "OUT-OF-DOMAIN",
+      "llm_answer": null
+    },
+    {
+      "id": 16,
+      "question": "What was Apple's stock price on January 1, 2024?",
+      "type": "outside_knowledge",
+      "expected_source": null,
+      "retrieved_sources": [
+        "academic_rules.txt",
+        "academic_rules.txt",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.1402,
+      "status": "OUT-OF-DOMAIN",
+      "llm_answer": null
+    },
+    {
+      "id": 17,
+      "question": "What is the capital of Australia?",
+      "type": "outside_knowledge",
+      "expected_source": null,
+      "retrieved_sources": [
+        "college_handbook.pdf",
+        "college_handbook.pdf",
+        "college_handbook.pdf"
+      ],
+      "top_score": 0.1553,
+      "status": "OUT-OF-DOMAIN",
+      "llm_answer": null
+    },
+    {
+      "id": 18,
+      "question": "Can you write a poem about quantum computers?",
+      "type": "outside_knowledge",
+      "expected_source": null,
+      "retrieved_sources": [
+        "academic_rules.txt",
+        "academic_rules.txt",
+        "college_handbook.txt"
+      ],
+      "top_score": 0.1586,
+      "status": "OUT-OF-DOMAIN",
+      "llm_answer": null
+    }
+  ]
+}

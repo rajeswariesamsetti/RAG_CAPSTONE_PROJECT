@@ -1,0 +1,65 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 7 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 264 >>
+stream
+BT
+/F1 16 Tf
+50 720 Td
+(University Student Handbook - Page 1) Tj
+/F1 12 Tf
+0 -40 Td
+(The attendance requirement for all undergraduate programs is 75%.) Tj
+0 -25 Td
+(Students with attendance below 75% will not be permitted to take final exams.) Tj
+0 -25 Td
+(A minimum cumulative grade point average CGPA of 5.0 is required for graduation.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 262 >>
+stream
+BT
+/F1 16 Tf
+50 720 Td
+(University Student Handbook - Page 2) Tj
+/F1 12 Tf
+0 -40 Td
+(The Central Library is open on all working days from 8:00 AM to 10:00 PM.) Tj
+0 -25 Td
+(Undergraduate students may borrow up to 4 books for 14 calendar days.) Tj
+0 -25 Td
+(Hostel residents must report inside hostel premises by 9:30 PM on weekdays.) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000124 00000 n 
+0000000251 00000 n 
+0000000378 00000 n 
+0000000456 00000 n 
+0000000773 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1088
+%%EOF

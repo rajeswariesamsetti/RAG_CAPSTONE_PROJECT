@@ -1,0 +1,16 @@
+# Academic Regulations and Examination Guidelines
+
+## Chapter 1: Course Registration and Credit Structure
+Undergraduate B.Tech students must complete a total of 160 credits across eight semesters. In each regular semester, a student must register for a minimum of 18 credits and a maximum of 26 credits. Registration for elective courses commences one week before the semester commencement date.
+
+## Chapter 2: Examination Violations and Penalties
+Any student found possessing unauthorized electronic gadgets, handwritten notes, or communicating with other candidates during examinations will be penalized under the Examination Malpractice Regulations. Penalties include:
+- First Offense: Immediate cancellation of the current exam paper and assignment of Grade F.
+- Second Offense: Debarment from all examinations for the current academic semester.
+- Third Offense: Suspension from the university for one full academic year.
+
+## Chapter 3: Major and Minor Degree Programs
+Students maintaining a CGPA of 8.0 or higher at the end of the fourth semester are eligible to opt for an Honours or Minor degree specialization by earning an additional 18 to 20 credits through designated advanced tracks or online NPTEL/Swayam courses approved by the Academic Council.
+
+## Chapter 4: Capstone Project Guidelines
+The final year Capstone Project is a 6-credit mandatory requirement in Semester 8. Project teams may consist of 2 to 4 students. An interim evaluation is conducted at mid-semester (30% weightage), and a final presentation and defense viva before an external examiner determines the final 70% of the project grade. Plagiarism above 15% detected via anti-plagiarism tools will lead to project rejection.

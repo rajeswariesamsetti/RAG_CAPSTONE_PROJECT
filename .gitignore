@@ -1,0 +1,35 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environment variables & secrets
+.env
+.streamlit/secrets.toml
+
+# ChromaDB persistence directory
+chroma_db/
+!chroma_db/.gitkeep
+
+# User uploaded document storage (keep gitkeep)
+data/*
+!data/.gitkeep
+!data/sample_documents/
+
+# Logs & temp files
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Authentication DB
+auth.db
+*.sqlite
+*.sqlite3
